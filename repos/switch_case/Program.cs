@@ -38,5 +38,10 @@ switch (opert)
             Console.WriteLine("Result is = " + result);
             break;
         }
+    default:
+        {
+            Console.WriteLine("Wrong operator");
+            break;
+        }
 
 }
