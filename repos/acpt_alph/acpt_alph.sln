@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acpt_alph", "acpt_alph.csproj", "{2FA8B81C-F49A-4B4F-B29D-C9D3B65C2A41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA8B81C-F49A-4B4F-B29D-C9D3B65C2A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA8B81C-F49A-4B4F-B29D-C9D3B65C2A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA8B81C-F49A-4B4F-B29D-C9D3B65C2A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA8B81C-F49A-4B4F-B29D-C9D3B65C2A41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87531FF8-282E-48CF-931A-F75AA3E34385}
+	EndGlobalSection
+EndGlobal
